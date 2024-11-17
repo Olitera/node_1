@@ -1,0 +1,11 @@
+{
+  "name": "node_1_olitera",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "author": "Olitera",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olitera/node_1.git"
+  }
+}
